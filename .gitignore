@@ -5,6 +5,7 @@ target
 tmp
 .history
 dist
+!ui/dist
 /.idea
 /*.iml
 /out
